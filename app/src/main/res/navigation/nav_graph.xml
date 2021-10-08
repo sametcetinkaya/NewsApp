@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeNewsFragment">
+
+    <fragment
+        android:id="@+id/homeNewsFragment"
+        android:name="com.sametcetinkaya.newsfeedapp.views.HomeNewsFragment"
+        android:label="Haberler"
+        tools:layout="@layout/home_news_fragment" >
+
+        <action
+            android:id="@+id/action_homeNewsFragment_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedNewsFragment"
+        android:name="com.sametcetinkaya.newsfeedapp.views.SavedNewsFragment"
+        android:label="Kayıtlı Haberler"
+        tools:layout="@layout/saved_news_fragment" >
+        <action
+            android:id="@+id/action_savedNewsFragment_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchNewsFragment"
+        android:name="com.sametcetinkaya.newsfeedapp.views.SearchNewsFragment"
+        android:label="Ara"
+        tools:layout="@layout/search_news_fragment" >
+        <action
+            android:id="@+id/action_searchNewsFragment_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsDetailFragment"
+        android:name="com.sametcetinkaya.newsfeedapp.views.NewsDetailFragment"
+        android:label="Haber Detayları" >
+        <argument
+            android:name="article"
+            app:argType="com.sametcetinkaya.newsfeedapp.models.Article" />
+    </fragment>
+</navigation>

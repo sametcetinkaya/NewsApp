@@ -3,36 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable-v24/ic_clear.xml" value="0.125" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable-v24/ic_search.xml" value="0.125" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable-v24/rount_white.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.3671875" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_date.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_favorite.xml" value="0.21354166666666666" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/drawable/top_shadow.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/fragment_favorite.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/fragment_news_detail.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/fragment_web.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/network_error.xml" value="0.3625" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/recycler_item.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/layout/search_header_layout.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/menu/bottom_nav.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/menu/search.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/mipmap-anydpi-v26/ic_launcher_apk.xml" value="0.15208333333333332" />
-        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsApp/News/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.2140625" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_baseline_share_24.xml" value="0.2140625" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_error.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_explore.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_fav.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_fav_out.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_favorite.xml" value="0.2140625" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_news.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_share.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable-v24/ic_xplore.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/activity_main.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_news_detail.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/home_news_fragment.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/news_detail_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/news_item.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/saved_news_fragment.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/search_news_fragment.xml" value="0.2694746376811594" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_app.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_app_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_live.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/samet/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
